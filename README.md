@@ -7,3 +7,6 @@ Exploring the intersection of AI & Cybersecurity | Documentation of my journey i
 
 
 ✅ Completed: TryHackMe - Offensive Security Intro Room (Jan 30, 2026) 
+
+
+🐍 Executed first Python script on Kaggle: Learning environment set up successfully! (Jan 30, 2026)

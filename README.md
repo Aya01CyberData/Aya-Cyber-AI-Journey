@@ -4,3 +4,6 @@ Exploring the intersection of AI & Cybersecurity | Documentation of my journey i
 
 
 🏆 1st Achievement: Reached #1 on Sololearn Leaderboard (Mercury League) - Jan 30, 2026 
+
+
+✅ Completed: TryHackMe - Offensive Security Intro Room (Jan 30, 2026) 
